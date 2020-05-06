@@ -1,4 +1,4 @@
-# PHYS-F302 Assignment
+# PHYS-F303 Assignment
 ## - by Marine Prunier and Noé Durandard
 
 ### Statistical Physics
